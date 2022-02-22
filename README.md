@@ -1,6 +1,5 @@
-Hi, I’m @nic-royo, I'm a Spanish/Colombian currently studying a bachelor of Computer Science at the University of London, with one of their distance learning programs.
-I’m interested in data science, full stack development, and computer architecture.  
-I’m currently learning mainly Node.js, SQL, python, but would like to learn more about React, .NET and R once I have free time.
+Hi, I’m @nic-royo, I'm a Spanish/Colombian currently studying a bachelor of Computer Science at Goldsmiths University.
+I’m interested in data science, and machine learning.
 
 
 <!---
