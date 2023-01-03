@@ -1,5 +1,4 @@
-Hi, I’m @nic-royo, I'm a Spanish/Colombian currently studying a bachelor of Computer Science at Goldsmiths University.
-I’m interested in data science, and machine learning.
+Hi, I’m @nic-royo, I'm a Spanish/Colombian currently studying a masters in Data Science at the IT University of Copenhagen.
 
 
 <!---
