@@ -1,4 +1,4 @@
-Hi, I’m @nic-royo, I'm a Spanish/Colombian currently studying a masters in Data Science at the IT University of Copenhagen.
+Hi, I’m @nic-royo, I'm currently working as a Data Scientist at DS Norden, in Quantitative Analytics. I have an MSc in Data Science from the IT University of Copenhagen and a BSc in Computer Science from Goldsmiths, University of London.
 
 
 <!---
